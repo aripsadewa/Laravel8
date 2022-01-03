@@ -1,6 +1,6 @@
 <div>
     <div>
-        {{ $title }}
+        {{ $titlenya }}
     </div>
     {{ $slot }}
     <div>
