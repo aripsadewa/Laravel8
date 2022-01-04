@@ -13,7 +13,10 @@
     "axios": "^0.21",
     "laravel-mix": "^6.0.6",
     "lodash": "^4.17.19",
-    "postcss": "^8.1.14"
+    "postcss": "^8.1.14",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.45.2",
+    "sass-loader": "^12.4.0"
   },
   "name": "laravel8",
   "description": "<p align=\"center\"><a href=\"https://laravel.com\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg\" width=\"400\"></a></p>",
@@ -36,5 +39,9 @@
   "bugs": {
     "url": "https://github.com/findarip/Laravel8/issues"
   },
-  "homepage": "https://github.com/findarip/Laravel8#readme"
+  "homepage": "https://github.com/findarip/Laravel8#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.0",
+    "bootstrap": "^5.1.3"
+  }
 }
